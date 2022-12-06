@@ -26,4 +26,3 @@ const mergeSortedArrays = (array1, array2) => {
 const mergeArrYaYeas = (err1, err2) => [...err1, ...err2];
 
 console.log(mergeSortedArrays([0, 3, 4, 31], [4, 6, 30]));
-// console.log(mergeArrYaYeas([0, 3, 4, 31], [4, 6, 30]));
